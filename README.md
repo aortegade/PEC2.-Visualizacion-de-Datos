@@ -4,7 +4,7 @@ A continuación se presentan tres visualizaciones, elaboradas a través de la he
 # 1. Bubble Chart
 Un Bubble Chart (gráfico de burbujas) es una representación visual de datos que utiliza burbujas o círculos para mostrar puntos de datos. Cada burbuja tiene un tamaño proporcional a la variable que estás representando. Además de las coordenadas en el eje X e Y, el tercer eje se representa mediante el tamaño de las burbujas. Esto es útil cuando quieres mostrar tres variables en una sola visualización. Por ejemplo, si estás representando defunciones (eje Y), nacimientos (eje X) y la población (tamaño de burbujas), puedes tener una idea rápida de cómo diferentes categorías se comparan entre sí.
 
-El conjunto de datos se ha obtenido de cruzar distintos ficheros del INE (nacimientos, defunciones y población) de 2021. 
+El conjunto de datos se ha obtenido de cruzar (manualmente, dado el tamaño de los conjuntos) distintos ficheros del INE (nacimientos, defunciones y población) de 2021. 
 Se encuentran en el siguiente enlace: https://www.ine.es/dynt3/inebase/index.htm?padre=7993&capsel=8053
 
 # 2. Voronoi Diagram
